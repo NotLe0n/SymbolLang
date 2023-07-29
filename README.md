@@ -1,10 +1,10 @@
-# SymbolCompiler
+# SymbolLang
 A programming language without words.
 
 # Specification
 
 ## Table of Contents
-- [SymbolCompiler](#symbolcompiler)
+- [SymbolLang](#symbollang)
 - [Specification](#specification)
 	- [Table of Contents](#table-of-contents)
 - [Variables](#variables)
